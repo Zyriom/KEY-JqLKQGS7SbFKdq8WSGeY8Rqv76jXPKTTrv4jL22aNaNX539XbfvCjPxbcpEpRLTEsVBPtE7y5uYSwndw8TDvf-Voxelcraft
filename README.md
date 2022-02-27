@@ -14,7 +14,7 @@ Next you will install Fabric API. In the files above, find the one that says "__
 
 ![simplevc](https://user-images.githubusercontent.com/97993384/152624333-2c3ff116-6272-4548-880f-fad93bbd7d18.png)
 
-You have now successfully installed Proximity Chat! All you have to do now is change the settings on the voice chat menu and you're all set! (Only players with the mod installed can hear you on the server)
+You have now successfully installed Proximity Chat! All you have to do now is change the settings on the voice chat menu and you're all set! __(Only players with the mod installed can hear you on the server)__
 
 # Setting up Proximity Chat on Windows (FORGE)
 (WORK IN PROGRESS)
